@@ -1,0 +1,54 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Gül Dalı Çiçekçilik: buketler, aranjmanlar, düğün ve organizasyon çiçekleri; aynı gün teslimat talebi. (Demo site)",
+    "en": "Gul Dali Florist: bouquets, arrangements, wedding and event flowers; same-day delivery requests. (Demo site)",
+    "ar": "غول دالي للزهور: باقات وتنسيقات وزهور الأعراس والفعاليات مع طلب التسليم في اليوم نفسه. (موقع تجريبي)"
+  },
+  "keyword": {
+    "tr": "çiçekçi, buket, organizasyon",
+    "en": "florist, bouquet, events",
+    "ar": "محل زهور، باقة، فعاليات"
+  },
+  "category": "Kurumsal",
+  "name": "Gül Dalı Çiçekçilik",
+  "domain": "cicekci.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "publishMode": "static",
+  "font": {
+    "body": "nunito-sans",
+    "heading": "playfair-display",
+    "ar": {
+      "body": "ibm-plex-sans-arabic",
+      "heading": "noto-naskh-arabic"
+    }
+  },
+  "colorScheme": "auto",
+  "theme_color": "#2F5D46",
+  "seo": {
+    "noindex": true
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "12px",
+    "--mx-radius-md": "20px",
+    "--mx-radius-lg": "28px",
+    "--mx-radius-xl": "38px"
+  },
+  "icon": "icon.png"
+}
